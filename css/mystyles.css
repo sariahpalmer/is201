@@ -1,0 +1,13 @@
+body{
+    .mb-3{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color:greenyellow !important
+    }
+    .notyellow{
+        color: black !important
+    }
+    .intro-text{
+        box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+    }
+    
+}
